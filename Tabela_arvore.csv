@@ -1,0 +1,50 @@
+ID;Pergunta;A;Nó A;B;Nó B
+1;Mais do que 2.5 banheiros?;SIM;2;NÃO;3
+2;Metragem maior que 2200?;SIM;4;NÃO;5
+3;Quantidade de pisos maior ou igual a 2?;SIM;26;NÃO;27
+4;Quantidade de quartos maior que 3.5?;SIM;6;NÃO;7
+5;Quantidade de quartos maior que 3.5?;SIM;12;NÃO;13
+6;NÓ FOLHA;Comprar a casa;;;
+7;Valor da area maior do que 160?;SIM;8;NÃO;9
+8;NÓ FOLHA;Comprar a casa;;;
+9;Quantidade de pisos maior ou igual a 2?;SIM;10;NÃO;11 
+10;NÓ FOLHA;Comprar a casa;;;
+11;NÓ FOLHA; NÃO comprar a casa;;;
+12;Valor da area maior do que 160?;SIM;14;NÃO;15
+13;Condiçao da casa maior do que 3?;SIM;18;NÃO;19
+14;NÓ FOLHA;Comprar a casa;;;
+15;Quantidade de pisos maior ou igual a 2?;SIM;16;NÃO;17
+16;NÓ FOLHA;Comprar a casa;;;
+17;NÓ FOLHA; NÃO comprar a casa;;;
+18;Ano da construçao maior que 1989?;SIM;20;NÃO;21
+19;Quantidade de pisos maior ou igual a 2?;SIM;22;NÃO;23
+20;NÓ FOLHA;Comprar a casa;;;
+21;NÓ FOLHA; NÃO comprar a casa;;;
+22;Valor da area maior do que 160?;SIM;24;NÃO;25
+23;NÓ FOLHA; NÃO comprar a casa;;;
+24;NÓ FOLHA;Comprar a casa;;;
+25;NÓ FOLHA; NÃO comprar a casa;;;
+26;Metragem maior que 2200?;SIM;28;NÃO;29
+27;Quantidade de quartos maior do que 3.5?;SIM;38;NÃO;39
+28;NÓ FOLHA;Comprar a casa;;;
+29;Valor da area maior do que 160?;SIM;30;NÃO;31
+30;Quantidade de quartos maior do que 3.5?;SIM;32;NÃO;33
+31;NÓ FOLHA; NÃO comprar a casa;;;
+32;NÓ FOLHA;Comprar a casa;;;
+33;Condiçao da casa maior do que 3?;SIM;34;NÃO;35
+34;Ano da construçao maior que 1989?;SIM;36;NÃO;37
+35;NÓ FOLHA; NÃO comprar a casa;;;
+36;NÓ FOLHA;Comprar a casa;;;
+37;NÓ FOLHA; NÃO comprar a casa;;;
+38;Metragem maior que 2200?;SIM;40;NÃO;45
+39;NÓ FOLHA; NÃO comprar a casa;;;
+40;Valor da area maior que 160?;SIM;41;NÃO;42
+41;NÓ FOLHA;Comprar a casa;;;
+42;Ano da construçao maior que 1989?;SIM;43;NÃO;44
+43;NÓ FOLHA;Comprar a casa;;;
+44;NÓ FOLHA; NÃO comprar a casa;;;
+45;Ano da construçao maior que 1989?;SIM;46;NÃO;47
+46;Valor da area maior que 160?;SIM;48;NÃO;49
+47;NÓ FOLHA; NÃO comprar a casa;;;
+48;NÓ FOLHA;Comprar a casa;;;
+49;NÓ FOLHA; NÃO comprar a casa;;;
